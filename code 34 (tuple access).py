@@ -1,0 +1,10 @@
+#tuple access
+a=(1,3,5,7,9,0)
+print(type(a))
+print(len(a))
+print(a[2])
+print(a[-2])
+print(a[1:4])
+print(a[:4])
+print(a[2:])
+print(a[-4:-1])
