@@ -3,6 +3,6 @@
 
 n= int(input("enter the Last number: "))
 sum=0
-for x in range(1,n+1,):
+for x in range(1,n+1,2):
     sum +=x
 print(sum)
